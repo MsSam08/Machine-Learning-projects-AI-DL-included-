@@ -8,7 +8,7 @@
 
    
 ## Machine Learning
-1. [Predicting Christmas Movie Grossings](https://github.com/MsSam08/Data-Science-and-Engineering-projects-AI-ML-included-/tree/main/Ozone%20Pollution%3A%20EDA%2C%20Cleaning%20%26%20Analysis) ⭐
+1. [Predicting Christmas Movie Grossings](https://github.com/MsSam08/Machine-Learning-projects-AI-DL-included-/tree/main/Predicting%20Christmas%20Movie%20Grossings) ⭐
 
 2. [DVD Rental Duration Prediction](https://github.com/MsSam08/Data-Science-and-Engineering-projects-AI-ML-included-/tree/main/DVD%20Rental%20Duration%20Prediction) ⭐
 
