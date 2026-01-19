@@ -1,4 +1,6 @@
-# From beginner to Advanced projects 
+Beginner ⭐
+Intermediate ⭐⭐
+Advanced ⭐⭐⭐
 
  ## Data Science
 1. [Ozone Pollution: EDA, Cleaning & Analysis](https://github.com/MsSam08/Data-Science-and-Engineering-projects-AI-ML-included-/tree/main/Ozone%20Pollution%3A%20EDA%2C%20Cleaning%20%26%20Analysis)
