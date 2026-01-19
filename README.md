@@ -1,5 +1,7 @@
-Beginner ⭐ ||
-Intermediate ⭐⭐ ||
+Beginner ⭐ 
+
+Intermediate ⭐⭐ 
+
 Advanced ⭐⭐⭐
 
  ## Data Science
