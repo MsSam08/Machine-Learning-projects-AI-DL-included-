@@ -19,3 +19,5 @@ Advanced ⭐⭐⭐
 3. [Car Insurance claim prediction](https://github.com/MsSam08/Data-Science-and-Engineering-projects-AI-ML-included-/tree/main/Car%20Insurance%20claim%20prediction) ⭐
 
 4. [Sonar Rock vrs Mine Prediction](https://github.com/MsSam08/Machine-Learning-projects-AI-DL-included-/tree/main/SONAR%20Rock%20vrs%20Mine%20Prediction) ⭐
+
+5. [Diabetes Prediction model](https://github.com/MsSam08/Machine-Learning-projects-AI-DL-included-/tree/main/Diabetes%20Prediction%20model)
