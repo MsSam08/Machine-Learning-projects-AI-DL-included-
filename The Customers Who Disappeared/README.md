@@ -18,6 +18,8 @@ At first glance, nothing screamed, **“This is why they left.”** Correlation 
 That changed how I approached the modeling. Since patterns weren’t linear, I chose a Random Forest model to capture more complex relationships. I cleaned the data, encoded categorical features, scaled the variables, and, most importantly, removed the UserID column. That small decision mattered more than I expected. When I removed UserID, the ROC-AUC score jumped from 0.35 to 0.71. It was a reminder that irrelevant data can quietly sabotage performance.
 
 Feature importance told a clearer story. Visits in the last 30 days accounted for 40% of predictive power. Time on site followed at 31%, and purchase count at 22%. Together, engagement metrics made up over 90% of the model’s influence. Support tickets barely mattered.
+<img width="835" height="559" alt="image" src="https://github.com/user-attachments/assets/262523aa-e331-48b3-9d58-bf9a74e00f47" />
+
 
 The real turning point came when I adjusted the classification threshold. At the standard 0.5 cutoff, the model caught only 25% of churners. That’s not helpful in the real world. When the threshold was lowered to 0.2 and recall reached 100%, every at-risk customer in the test set was identified. Yes, false positives increased. However, in a real e-commerce setting, this would allow the company to intervene immediately by offering targeted discounts, loyalty incentives, or personalized re-engagement emails before customers fully disengage.
 
