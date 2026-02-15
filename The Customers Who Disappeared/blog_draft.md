@@ -32,8 +32,6 @@ The dataset was small, so this isn’t production-ready. But the lesson was clea
 
 
 Customers rarely announce their departure.
-
 But their behavior does.
-
 And now, we know how to listen.
 
