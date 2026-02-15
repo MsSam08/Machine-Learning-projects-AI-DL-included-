@@ -10,7 +10,7 @@ They just… stopped showing up.
 
 That’s the uncomfortable reality of customer churn in e-commerce. One day a customer is browsing, clicking, maybe even purchasing. A few weeks later, silence. By the time revenue dips, the damage is already done.
 
-I wanted to know: Can we catch the warning signs before customers disappear?
+I wanted to know: *Can we catch the warning signs before customers disappear?*
 
 Using a small dataset of 50 customers, I explored behavioral signals such as visits in the last 30 days, time spent on the site, number of purchases, and support tickets. About 38% had churned. Not enough to ignore, but not obvious either.
 At first glance, nothing screamed, “This is why they left.” Correlation analysis showed that no single variable strongly explained churn. That surprised me. I expected something dramatic, maybe customers who left barely visited or never purchased. But churn wasn’t loud. It was subtle.
