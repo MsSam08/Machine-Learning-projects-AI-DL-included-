@@ -13,7 +13,7 @@ That’s the uncomfortable reality of customer churn in e-commerce. One day a cu
 - I wanted to know: *Can we catch the warning signs before customers disappear?*
 
 Using a small dataset of 50 customers, I explored behavioral signals such as visits in the last 30 days, time spent on the site, number of purchases, and support tickets. About 38% had churned. Not enough to ignore, but not obvious either.
-At first glance, nothing screamed, “This is why they left.” Correlation analysis showed that no single variable strongly explained churn. That surprised me. I expected something dramatic, maybe customers who left barely visited or never purchased. But churn wasn’t loud. It was subtle.
+At first glance, nothing screamed, **“This is why they left.”** Correlation analysis showed that no single variable strongly explained churn. That surprised me. I expected something dramatic, maybe customers who left barely visited or never purchased. But churn wasn’t loud. It was subtle.
 
 That changed how I approached the modeling. Since patterns weren’t linear, I chose a Random Forest model to capture more complex relationships. I cleaned the data, encoded categorical features, scaled the variables, and, most importantly, removed the UserID column. That small decision mattered more than I expected. When I removed UserID, the ROC-AUC score jumped from 0.35 to 0.71. It was a reminder that irrelevant data can quietly sabotage performance.
 
