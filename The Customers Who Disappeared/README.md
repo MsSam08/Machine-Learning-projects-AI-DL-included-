@@ -1,8 +1,11 @@
 # The Customers Who Disappeared
 
 No one sent a goodbye email.
+
 No angry complaint.
+
 No dramatic exit.
+
 They just… stopped showing up.
 
 That’s the uncomfortable reality of customer churn in e-commerce. One day a customer is browsing, clicking, maybe even purchasing. A few weeks later, silence. By the time revenue dips, the damage is already done.
