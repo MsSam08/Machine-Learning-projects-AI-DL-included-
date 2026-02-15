@@ -19,7 +19,7 @@ That changed how I approached the modeling. Since patterns weren’t linear, I c
 
 Feature importance told a clearer story. Visits in the last 30 days accounted for 40% of predictive power. Time on site followed at 31%, and purchase count at 22%. Together, engagement metrics made up over 90% of the model’s influence. Support tickets barely mattered.
 
-![Feature importance](<img width="835" height="559" alt="image" src="https://github.com/user-attachments/assets/262523aa-e331-48b3-9d58-bf9a74e00f47" />)
+![Feature importance](https://github.com/MsSam08/Machine-Learning-projects-AI-DL-included-/blob/main/The%20Customers%20Who%20Disappeared/feture%20importance.png)
 
 
 The real turning point came when I adjusted the classification threshold. At the standard 0.5 cutoff, the model caught only 25% of churners. That’s not helpful in the real world. When the threshold was lowered to 0.2 and recall reached 100%, every at-risk customer in the test set was identified. Yes, false positives increased. However, in a real e-commerce setting, this would allow the company to intervene immediately by offering targeted discounts, loyalty incentives, or personalized re-engagement emails before customers fully disengage.
