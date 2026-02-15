@@ -24,12 +24,16 @@ Feature importance told a clearer story. Visits in the last 30 days accounted fo
 
 The real turning point came when I adjusted the classification threshold. At the standard 0.5 cutoff, the model caught only 25% of churners. That’s not helpful in the real world. When the threshold was lowered to 0.2 and recall reached 100%, every at-risk customer in the test set was identified. Yes, false positives increased. However, in a real e-commerce setting, this would allow the company to intervene immediately by offering targeted discounts, loyalty incentives, or personalized re-engagement emails before customers fully disengage.
 
+
 If even half of those flagged customers were successfully retained, the financial impact could be significant. Retaining existing customers is far cheaper than acquiring new ones. Instead of spending heavily on ads to replace lost customers, the company could protect recurring revenue through strategic retention campaigns.
 More importantly, this model shifts the company from reactive to proactive decision-making. Rather than analyzing churn after revenue declines, the business can act early, reduce lifetime value loss, and strengthen long-term customer relationships.
 
 The dataset was small, so this isn’t production-ready. But the lesson was clear: churn doesn’t happen suddenly. It is usually a slow decline in engagement. If businesses monitor those signals early, they can intervene before revenue slips away.
 
+
 Customers rarely announce their departure.
+
 But their behavior does.
+
 And now, we know how to listen.
 
