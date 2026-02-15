@@ -31,7 +31,9 @@ More importantly, this model shifts the company from reactive to proactive decis
 The dataset was small, so this isn’t production-ready. But the lesson was clear: churn doesn’t happen suddenly. It is usually a slow decline in engagement. If businesses monitor those signals early, they can intervene before revenue slips away.
 
 
-Customers rarely announce their departure.
+Customers rarely announce their departure
+
 But their behavior does.
+
 And now, we know how to listen.
 
